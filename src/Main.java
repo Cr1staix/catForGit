@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        int catAge;
+        int catAge = 5 ;
         int catWeights = 5;
         String catColor = "red";
         String catName = "Mark";
