@@ -5,5 +5,6 @@ public class Main {
         String catColor = "red";
         String catName = "Jack";
         System.out.println("Cat name - " + catName + "\nCat age - " + catAge + "\nCat color - " + catColor + "\nCat weight - " + catWeights + " kg\n");
+        System.out.println("Мы это сделали, все молодцы !");
     }
 }
